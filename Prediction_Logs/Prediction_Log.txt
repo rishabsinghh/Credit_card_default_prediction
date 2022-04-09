@@ -1,0 +1,24 @@
+2022-04-09/17:00:43		Start of Prediction
+2022-04-09/17:00:43		Entered the remove_columns method of the Preprocessor class
+2022-04-09/17:00:43		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-04-09/17:00:43		Entered the encode variables method of the Preprocessor class
+2022-04-09/17:00:43		Encode Variables successful, Exited the Encode Variables Method of the Preprocessor class
+2022-04-09/17:00:43		Entered the remove_columns method of the Preprocessor class
+2022-04-09/17:00:43		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-04-09/17:00:43		Entered the scale_data method of the Preprocessor class
+2022-04-09/17:00:43		Scale_data successful, Exited the Scale Data Method of the Preprocessor class
+2022-04-09/17:00:43		Entered the load_model method of the File_Operation class
+2022-04-09/17:00:43		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-04-09/17:00:43		Entered the find_correct_model_file method of the File_Operation class
+2022-04-09/17:00:43		Exited the find_correct_model_file method of the Model_Finder class.
+2022-04-09/17:00:43		Entered the load_model method of the File_Operation class
+2022-04-09/17:00:43		Model File KNN0 loaded. Exited the load_model method of the Model_Finder class
+2022-04-09/17:00:43		Entered the find_correct_model_file method of the File_Operation class
+2022-04-09/17:00:43		Exited the find_correct_model_file method of the Model_Finder class.
+2022-04-09/17:00:43		Entered the load_model method of the File_Operation class
+2022-04-09/17:00:43		Model File KNN1 loaded. Exited the load_model method of the Model_Finder class
+2022-04-09/17:00:44		Entered the find_correct_model_file method of the File_Operation class
+2022-04-09/17:00:44		Exited the find_correct_model_file method of the Model_Finder class.
+2022-04-09/17:00:44		Entered the load_model method of the File_Operation class
+2022-04-09/17:00:44		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2022-04-09/17:00:44		End of Prediction
